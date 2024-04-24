@@ -21,8 +21,6 @@ Site simples para fazer cálculo de IMC para praticar manipulações de DOM e va
 ### Fucionalidades do Projeto
 
 - [x] Validações
-- [ ] Responsivo
-- [ ] Tabela de classificação do IMC
 
 ### Autor
 
